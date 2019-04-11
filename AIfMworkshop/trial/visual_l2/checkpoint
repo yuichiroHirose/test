@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:/Users/richa/PycharmProjects/ai_mechatronics/Results/trial/visual_l2/l2_embedding.ckpt"
+all_model_checkpoint_paths: "C:/Users/richa/PycharmProjects/ai_mechatronics/Results/trial/visual_l2/l2_embedding.ckpt"
